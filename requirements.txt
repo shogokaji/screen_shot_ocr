@@ -1,0 +1,6 @@
+pathlib
+pillow_heif
+pyautogui
+pynput
+pyperclip
+pytesseract
