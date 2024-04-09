@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```sh
 brew install tesseract
 ```
-使用する言語の学習データを[リポジトリ](https://github.com/tesseract-ocr/tessdata)から取得。
+使用する言語の学習データを[リポジトリ](https://github.com/tesseract-ocr/tessdata)から取得。  
 `brew list tesseract`でで確認して、share/tessdata/配下に配置（[参考](https://dev.classmethod.jp/articles/ocr-on-a-mac-device-with-pytesseract/)）
 
 ## 実行方法
